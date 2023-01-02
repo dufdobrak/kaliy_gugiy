@@ -1,0 +1,32 @@
+.ww {
+	color: #0077ffc7;
+  	font-size: 24px;
+}
+
+
+a.button {
+    display: inline-block;
+    background: #7283dfc7;
+    color: #fff;
+    padding: 0px;
+    border-radius: 3px;
+    text-decoration: none;
+    font-family: Tahoma;
+    font-size: 45px;
+    line-height: 1;
+    font-weight: 100;
+    justify-content: center;
+    opacity: 1;
+    border-radius: 3%;
+    margin-top: 8%;
+  }
+  
+  div {
+    text-align: center;
+    background: #c7b39b url(xcz.jpg);
+    background-position: center;
+    height: 100%;
+    width: 100%;
+    margin: 0;
+    padding: 0;
+  } 
